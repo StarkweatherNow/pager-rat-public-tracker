@@ -5,7 +5,7 @@
 ### 📡 ABOUT THE APP
 Pager Rat is the unofficial Android companion for the WiFi Pineapple. It provides a secure SSH tunnel, an AES-256 encrypted local loot vault, and rapid GitHub payload deployment directly from your mobile device—no desktop required. 
 
-* **Get the App:** [Google Play Store]([https://brandonstarkweather.com/PagerRat/](https://play.google.com/store/apps/details?id=com.pagermanager.app))
+* **Get the App:** [Google Play Store](https://play.google.com/store/apps/details?id=com.pagermanager.app)
 * **Live Development Streams:** [YouTube Live (Wednesdays @ 8PM EST)](https://www.youtube.com/@PagerRat/live)
 * **Community Server:** [Join the Discord](https://discord.gg/NGDhFcBhKr)
 
