@@ -1,13 +1,13 @@
-# 🐀 PAGER_RAT // PUBLIC_TRACKER
+# 📟 PAGER_RAT 🐀 // PUBLIC_TRACKER
 
 > **SYSTEM_NOTE:** This repository serves strictly as the public issue tracker for the Pager Rat Android project. **The core codebase remains private.**
 
 ### 📡 ABOUT THE APP
 Pager Rat is the unofficial Android companion for the WiFi Pineapple. It provides a secure SSH tunnel, an AES-256 encrypted local loot vault, and rapid GitHub payload deployment directly from your mobile device—no desktop required. 
 
-* **Get the App / Security Audit:** [brandonstarkweather.com/PagerRat](https://brandonstarkweather.com/PagerRat/)
-* **Live Development Streams:** [YouTube Live (Wednesdays @ 8PM)](https://www.youtube.com/@PagerRat/live)
-* **Community Terminal:** [Join the Discord](https://discord.gg/NGDhFcBhKr)
+* **Get the App:** [Google Play Store]([https://brandonstarkweather.com/PagerRat/](https://play.google.com/store/apps/details?id=com.pagermanager.app))
+* **Live Development Streams:** [YouTube Live (Wednesdays @ 8PM EST)](https://www.youtube.com/@PagerRat/live)
+* **Community Server:** [Join the Discord](https://discord.gg/NGDhFcBhKr)
 
 ### 🐛 BUG REPORTING PROTOCOL
 To keep the signal-to-noise ratio high, please use the **Issues** tab above to report crashes, submit telemetry, or request features. 
